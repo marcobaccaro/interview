@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.DataContext/Beijer.Thesaurus.DataContext.csproj": {}
+  },
+  "projects": {
+    "/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.DataContext/Beijer.Thesaurus.DataContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.DataContext/Beijer.Thesaurus.DataContext.csproj",
+        "projectName": "Beijer.Thesaurus.DataContext",
+        "projectPath": "/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.DataContext/Beijer.Thesaurus.DataContext.csproj",
+        "packagesPath": "/Users/mbaccaro001/.nuget/packages/",
+        "outputPath": "/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.DataContext/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mbaccaro001/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://epeinnovations.pkgs.visualstudio.com/_packaging/EPE-Nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/Beijer.Thesaurus.Domain.csproj": {
+                "projectPath": "/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/Beijer.Thesaurus.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/Beijer.Thesaurus.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/Beijer.Thesaurus.Domain.csproj",
+        "projectName": "Beijer.Thesaurus.Domain",
+        "projectPath": "/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/Beijer.Thesaurus.Domain.csproj",
+        "packagesPath": "/Users/mbaccaro001/.nuget/packages/",
+        "outputPath": "/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mbaccaro001/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://epeinnovations.pkgs.visualstudio.com/_packaging/EPE-Nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

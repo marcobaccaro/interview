@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{C62DCAC4-1DBE-4F76-B08D-290F8AF359AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Beijer.Thesaurus.Service/ThesaurusService.cs">
+    <Files>
+      <File FileName="Beijer.Thesaurus.Service/ThesaurusService.cs" Line="38" Column="1" />
+      <File FileName="Beijer.Thesaurus.DataContext/ApplicationDbContext.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Beijer.Thesaurus.WebApi" expanded="True">
+            <Node name="1.Presentation" expanded="True">
+              <Node name="Beijer.Thesaurus.WebApi" expanded="True" />
+            </Node>
+            <Node name="2.Application" expanded="True">
+              <Node name="Beijer.Thesaurus.Service" expanded="True">
+                <Node name="ThesaurusService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="4.Infrastructure" expanded="True">
+              <Node name="Beijer.Thesaurus.DataContext" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.1.Presentation.Beijer.Thesaurus.WebApi PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

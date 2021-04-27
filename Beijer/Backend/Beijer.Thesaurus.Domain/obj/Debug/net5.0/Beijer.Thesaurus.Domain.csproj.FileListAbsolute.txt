@@ -1,0 +1,12 @@
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/bin/Debug/net5.0/Beijer.Thesaurus.Domain.deps.json
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/bin/Debug/net5.0/Beijer.Thesaurus.Domain.dll
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/bin/Debug/net5.0/ref/Beijer.Thesaurus.Domain.dll
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/bin/Debug/net5.0/Beijer.Thesaurus.Domain.pdb
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/obj/Debug/net5.0/Beijer.Thesaurus.Domain.csprojAssemblyReference.cache
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/obj/Debug/net5.0/Beijer.Thesaurus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/obj/Debug/net5.0/Beijer.Thesaurus.Domain.AssemblyInfoInputs.cache
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/obj/Debug/net5.0/Beijer.Thesaurus.Domain.AssemblyInfo.cs
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/obj/Debug/net5.0/Beijer.Thesaurus.Domain.csproj.CoreCompileInputs.cache
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/obj/Debug/net5.0/Beijer.Thesaurus.Domain.dll
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/obj/Debug/net5.0/ref/Beijer.Thesaurus.Domain.dll
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Domain/obj/Debug/net5.0/Beijer.Thesaurus.Domain.pdb

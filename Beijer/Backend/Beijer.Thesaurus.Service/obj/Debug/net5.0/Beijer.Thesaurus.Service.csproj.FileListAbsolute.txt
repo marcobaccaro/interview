@@ -1,0 +1,17 @@
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/bin/Debug/net5.0/Beijer.Thesaurus.Service.deps.json
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/bin/Debug/net5.0/Beijer.Thesaurus.Service.dll
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/bin/Debug/net5.0/ref/Beijer.Thesaurus.Service.dll
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/bin/Debug/net5.0/Beijer.Thesaurus.Service.pdb
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/bin/Debug/net5.0/Beijer.Thesaurus.Domain.dll
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/bin/Debug/net5.0/Beijer.Thesaurus.Infrastructure.dll
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/bin/Debug/net5.0/Beijer.Thesaurus.Domain.pdb
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/bin/Debug/net5.0/Beijer.Thesaurus.Infrastructure.pdb
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/obj/Debug/net5.0/Beijer.Thesaurus.Service.csprojAssemblyReference.cache
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/obj/Debug/net5.0/Beijer.Thesaurus.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/obj/Debug/net5.0/Beijer.Thesaurus.Service.AssemblyInfoInputs.cache
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/obj/Debug/net5.0/Beijer.Thesaurus.Service.AssemblyInfo.cs
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/obj/Debug/net5.0/Beijer.Thesaurus.Service.csproj.CoreCompileInputs.cache
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/obj/Debug/net5.0/Beijer.Thesaurus.Service.csproj.CopyComplete
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/obj/Debug/net5.0/Beijer.Thesaurus.Service.dll
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/obj/Debug/net5.0/ref/Beijer.Thesaurus.Service.dll
+/Users/mbaccaro001/Git/General/Interview/Beijer/Backend/Beijer.Thesaurus.Service/obj/Debug/net5.0/Beijer.Thesaurus.Service.pdb
